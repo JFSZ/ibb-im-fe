@@ -34,7 +34,7 @@
     "framework7-vue": "^0.9.4",
     "js-cookie": "^2.2.0",
     "lodash": "^4.17.4",
-    "moment": "^2.17.1",
+    "moment": "^2.29.4",
     "qrcode.vue": "^1.5.1",
     "qs": "^6.7.0",
     "vue": "^2.2.2",
